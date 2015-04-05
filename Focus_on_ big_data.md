@@ -17,7 +17,7 @@ Data papers are designed to serve two purposes...to co-opt our current **paper-b
 The Future of Research Communications and e-Scholarship [(FORCE11)](https://www.force11.org/datacitation), 
 [Research Data Alliance](https://rd-alliance.org/group/data-citation-wg.html), 
 [Final report - Science as an open enterprise](https://royalsociety.org/policy/projects/science-public-enterprise/Report/)
-researchers can gain credit for data, research communities...the relative value...academic promotions, funding and careers.
+researchers can gain credit for data, research communities...the relative value...academic promotions, funding and careers. E.g. [FigShare](http://figshare.com/), [Dryad Digital Repository(Dryad)](http://datadryad.org/pages/organization) from [*Scientific Data*](http://www.nature.com/sdata/about/supported-by)
 
 + . [Analytical tools and current challenges in the modern era of neuroepigenomics](http://www.nature.com/neuro/journal/v17/n11/full/nn.3816.html)
 
