@@ -1,7 +1,7 @@
 ## Focus on big data series
 
 Nature Neuroscience presents a special focus issue highlighting big data efforts on its issue: 
-[November 2014 Volume 17, No 11](http://www.nature.com/neuro/focus/bigdata/index.html#rv)
+[November 2014 Volume 17, No 11](http://www.nature.com/neuro/focus/bigdata/index.html#rv). **Every noble work is at first impossible.**
 
 + . [Focus on big data](http://www.nature.com/neuro/journal/v17/n11/full/nn.3856.html)
 
