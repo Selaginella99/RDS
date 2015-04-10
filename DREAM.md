@@ -8,3 +8,5 @@ and also provided **guidelines for algorithm application and development**, and 
 The Genotype-Tissue Expression [(GTEx)](http://www.nature.com/ng/journal/v45/n6/full/ng.2653.html) project
 
 [Quantitative and logic modelling of molecular and gene networks](http://www.nature.com/nrg/journal/v16/n3/full/nrg3885.html) from NATURE REVIEWS GENETICS ARTICLE SERIES: *Modelling*
+
+Epigenome Roadmap's [Thread articles](http://www.nature.com/collections/vbqgtr/) included "Integrative analysis of 111 reference human epigenomes", "Large-scale imputation of epigenomic datasets for systematic annotation of diverse human tissues" and "Opportunities for drug repositioning from phenome-wide association studies" etc.
