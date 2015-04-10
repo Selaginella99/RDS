@@ -3,9 +3,9 @@
 Nature Neuroscience presents a special focus issue highlighting big data efforts on its issue: 
 [November 2014 Volume 17, No 11](http://www.nature.com/neuro/focus/bigdata/index.html#rv). **Every noble work is at first impossible.**
 
-+ . [Focus on big data](http://www.nature.com/neuro/journal/v17/n11/full/nn.3856.html)
++  [Focus on big data](http://www.nature.com/neuro/journal/v17/n11/full/nn.3856.html)
 
-+ . [Big data from small data: data-sharing in the 'long tail' of neuroscience](http://www.nature.com/neuro/journal/v17/n11/full/nn.3838.html#ref48)
++  [Big data from small data: data-sharing in the 'long tail' of neuroscience](http://www.nature.com/neuro/journal/v17/n11/full/nn.3838.html#ref48)
 
 **how credit may be given for data sharing**:
 
@@ -19,8 +19,10 @@ The Future of Research Communications and e-Scholarship [(FORCE11)](https://www.
 [Final report - Science as an open enterprise](https://royalsociety.org/policy/projects/science-public-enterprise/Report/)
 researchers can gain credit for data, research communities...the relative value...academic promotions, funding and careers. E.g. [FigShare](http://figshare.com/), [Dryad Digital Repository(Dryad)](http://datadryad.org/pages/organization) from [*Scientific Data*](http://www.nature.com/sdata/about/supported-by)
 
-+ . [Analytical tools and current challenges in the modern era of neuroepigenomics](http://www.nature.com/neuro/journal/v17/n11/full/nn.3816.html)
++  [Analytical tools and current challenges in the modern era of neuroepigenomics](http://www.nature.com/neuro/journal/v17/n11/full/nn.3816.html)
 
-+ . [The big data challenges of connectomics](http://www.nature.com/neuro/journal/v17/n11/full/nn.3837.html)
++  [The big data challenges of connectomics](http://www.nature.com/neuro/journal/v17/n11/full/nn.3837.html)
  
  Here the author described some of the key difficulties that may arise in 'big data' and provide suggestions for managing them (breakthrough algorithmic and computational solutions).
+
++ [Epigenomics: Roadmap for regulation](http://www.nature.com/nature/journal/v518/n7539/full/518314a.html) covered a package of papers in the functional regulatory elements in genomes that have been obtained from human tissue samples and cell lines.
