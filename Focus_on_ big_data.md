@@ -28,4 +28,4 @@ researchers can gain credit for data, research communities...the relative value.
 + [Epigenomics: Roadmap for regulation](http://www.nature.com/nature/journal/v518/n7539/full/518314a.html) covered a package of papers in the functional regulatory elements in genomes that have been obtained from human tissue samples and cell lines.
 
 Comments:
-[The difficulty of a fair comparison](http://www.nature.com/nmeth/journal/v12/n4/full/nmeth.3359.html) on Nature Method blog.
+[The difficulty of a fair comparison](http://www.nature.com/nmeth/journal/v12/n4/full/nmeth.3359.html) on Nature Method blog, highlighted the bottle neck "*definition of such benchmarks*" in the comparison.
