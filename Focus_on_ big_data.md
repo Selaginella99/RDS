@@ -27,5 +27,8 @@ researchers can gain credit for data, research communities...the relative value.
 
 + [Epigenomics: Roadmap for regulation](http://www.nature.com/nature/journal/v518/n7539/full/518314a.html) covered a package of papers in the functional regulatory elements in genomes that have been obtained from human tissue samples and cell lines.
 
++ [TCGA](http://cancergenome.nih.gov/newsevents/newsannouncements/PanCancer_Analysis_in_Nature) Pan-Cancer Analysis Published in [Nature](http://www.nature.com/tcga/) and [NG](http://www.nature.com/ng/focus/tcga/index.html): Focus on TCGA Pan-Cancer Analysis
++ Integrative personal omics profile, ([iPOP](http://snyderome.stanford.edu/)), with one [cell paper](http://www.sciencedirect.com/science/article/pii/S0092867412001663): *Personal Omics Profiling Reveals Dynamic Molecular and Medical Phenotypes*, 2012
+
 Comments:
 [The difficulty of a fair comparison](http://www.nature.com/nmeth/journal/v12/n4/full/nmeth.3359.html) on Nature Method blog, highlighted the bottle neck "*definition of such benchmarks*" in the comparison.
