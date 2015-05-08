@@ -14,3 +14,6 @@ The Genotype-Tissue Expression [(GTEx)](http://www.nature.com/ng/journal/v45/n6/
 Epigenome Roadmap's [Thread articles](http://www.nature.com/collections/vbqgtr/) included "Integrative analysis of 111 reference human epigenomes", "Large-scale imputation of epigenomic datasets for systematic annotation of diverse human tissues" and "Opportunities for drug repositioning from phenome-wide association studies" etc.
 
 Expanding the [computational toolbox](http://www.nature.com/nrg/journal/v15/n8/full/nrg3767.html) for mining cancer genomes,  reviewed cancer genomics software and the insights that have been gained from their application, 2014.
+
+GTEx detects genetic effects on science [2015 May](http://www.sciencemag.org/content/348/6235/640.full?utm_campaign=email-sci-toc&utm_src=email), and [New database links](http://www.sciencemag.org/content/348/6235/618.full) regulatory DNA to its target genes, 
+The Genotype-Tissue Expression (GTEx) pilot analysis: Multitissue gene regulation in humans, Effect of predicted protein-truncating genetic variants on the human transcriptome, Effect of predicted protein-truncating genetic variants on the human transcriptome
