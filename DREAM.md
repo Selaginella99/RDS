@@ -17,3 +17,7 @@ Expanding the [computational toolbox](http://www.nature.com/nrg/journal/v15/n8/f
 
 GTEx detects genetic effects on science [2015 May](http://www.sciencemag.org/content/348/6235/640.full?utm_campaign=email-sci-toc&utm_src=email), and [New database links](http://www.sciencemag.org/content/348/6235/618.full) regulatory DNA to its target genes, 
 The Genotype-Tissue Expression (GTEx) pilot analysis: Multitissue gene regulation in humans, Effect of predicted protein-truncating genetic variants on the human transcriptome, Effect of predicted protein-truncating genetic variants on the human transcriptome
+
+Machine learning applications in [genetics and genomics](http://www.nature.com/nrg/journal/v16/n6/full/nrg3920.html), NRG 2015; [Haplotype-resolved genome sequencing](http://www.nature.com/nrg/journal/v16/n6/full/nrg3903.html): experimental methods and applications, NRG 2015.
+
+[Widespread Macromolecular Interaction Perturbations](http://www.sciencedirect.com/science/article/pii/S0092867415004304) in Human Genetic Disorders, Cell 2015; [comments](http://www.nature.com/nrg/journal/v16/n6/full/nrg3957.html) *Network effects of disease mutations* on Nature.
